@@ -1,0 +1,7 @@
+/home/yyy/reg/build/CMakeFiles/install.dir
+/home/yyy/reg/build/CMakeFiles/list_install_components.dir
+/home/yyy/reg/build/CMakeFiles/rebuild_cache.dir
+/home/yyy/reg/build/CMakeFiles/regis.dir
+/home/yyy/reg/build/CMakeFiles/install/strip.dir
+/home/yyy/reg/build/CMakeFiles/install/local.dir
+/home/yyy/reg/build/CMakeFiles/edit_cache.dir

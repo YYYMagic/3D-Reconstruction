@@ -1,0 +1,2 @@
+amin:procimg:procimg2
+-DCATKIN_DEVEL_PREFIX=/home/yyy/proj/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yyy/proj/catkin_ws/install -G Unix Makefiles

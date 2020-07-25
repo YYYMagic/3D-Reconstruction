@@ -1,0 +1,8 @@
+prefix=/home/yyy/catkin_ws/install
+
+Name: zed_nodelet_example
+Description: Description of zed_nodelet_example
+Version: 2.7.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

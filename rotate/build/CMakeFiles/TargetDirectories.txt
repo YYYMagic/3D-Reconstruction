@@ -1,0 +1,3 @@
+/home/yyy/rotate/build/CMakeFiles/rebuild_cache.dir
+/home/yyy/rotate/build/CMakeFiles/edit_cache.dir
+/home/yyy/rotate/build/CMakeFiles/matrix_transform.dir

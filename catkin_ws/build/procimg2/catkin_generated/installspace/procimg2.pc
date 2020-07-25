@@ -1,0 +1,8 @@
+prefix=/home/yyy/proj/catkin_ws/install
+
+Name: procimg2
+Description: Description of procimg2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

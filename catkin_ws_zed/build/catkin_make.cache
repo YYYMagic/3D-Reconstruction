@@ -1,0 +1,2 @@
+zed-ros-wrapper/examples/zed_ar_track_alvar_example:zed-ros-wrapper/examples/zed_nodelet_example:zed-ros-wrapper/examples/zed_rtabmap_example:zed-ros-wrapper/tutorials/zed_depth_sub_tutorial:zed-ros-wrapper/tutorials/zed_tracking_sub_tutorial:zed-ros-wrapper/tutorials/zed_video_sub_tutorial:zed-ros-wrapper/zed_display_rviz:zed-ros-wrapper/zed_ros:zed-ros-wrapper/zed_wrapper
+-DCATKIN_DEVEL_PREFIX=/home/yyy/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yyy/catkin_ws/install -G Unix Makefiles

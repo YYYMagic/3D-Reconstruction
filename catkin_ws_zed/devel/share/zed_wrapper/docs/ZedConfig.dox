@@ -1,0 +1,12 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~mat_resize_factor" : \b [double] Image/Measures resize factor min: 0.1, default: 1.0, max: 1.0
+- \b "~confidence" : \b [int] Confidence threshold, the lower the better min: 1, default: 100, max: 100
+- \b "~max_depth" : \b [double] Maximum Depth Range min: 0.5, default: 3.5, max: 20.0
+- \b "~point_cloud_freq" : \b [double] Point cloud frequency min: 0.1, default: 15.0, max: 60.0
+- \b "~auto_exposure" : \b [bool] Enable/Disable auto control of exposure and gain min: False, default: True, max: True
+- \b "~gain" : \b [int] Gain value when manual controlled min: 0, default: 100, max: 100
+- \b "~exposure" : \b [int] Exposure value when manual controlled min: 0, default: 100, max: 100
+
