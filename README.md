@@ -1,5 +1,5 @@
 # 3D-Reconstruction
-
+毕业设计代码，基于ElasticFusion的双目实时重建
 
 ## 依赖包：
 Ubuntu 14.04, 15.04 or 16.04 (Though many other linux distros will work fine)
